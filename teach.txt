@@ -1,0 +1,4 @@
+{
+  "hello": "Hello, how can I assist you today?",
+  "what is the capital city of iran ?": "The capital city of Iran is Tehran."
+}
